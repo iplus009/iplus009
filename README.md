@@ -7,9 +7,9 @@
 
 # Hi, I'm Ismail 👋
 
-**Student · App Developer · AI & Technology Enthusiast**
+**App Developer · UI/UX Systems Builder · AI-Assisted Workflow Enthusiast**
 
-I enjoy building useful digital products, exploring modern app experiences, and learning how AI can make software development more accessible.
+I build practical, design-focused digital products—from Android & Kotlin Multiplatform apps to custom glass UI kits, web platforms, and local-first developer tools.
 
 </div>
 
@@ -17,21 +17,34 @@ I enjoy building useful digital products, exploring modern app experiences, and 
 
 ### About Me
 
-- 📱 Interested in Android apps and practical digital tools.
-- 🎨 Enjoy exploring clean interfaces, UI/UX, and glass-inspired design.
-- 🤖 Experimenting with AI-assisted development and automation.
-- 🌱 Always learning, building, and improving one project at a time.
+- 📱 Building **Android & Multiplatform** applications with a strong focus on clean architecture and real-world usability.
+- 🎨 Passionate about **UI/UX design systems**, liquid-glass aesthetics, and crafting distinct, polished interfaces.
+- 🤖 Exploring **AI-assisted pair programming**, agent governance, and structured development workflows.
+- 🌱 Focused on privacy-friendly, local-first software and continuous improvement with every release.
 
-### What I'm Exploring
+---
 
-- Android application development
-- UI/UX design and design systems
-- AI tools, agents, and automation
-- Open-source software
+### Featured Projects
 
-### Featured Project
+- **KunjoDrive** *(formerly Sanchayika)* — An all-in-one drive and media ecosystem built with Kotlin Multiplatform (Android & Desktop), bringing together **DewanGram** *(mini Telegram)*, **iPlus Music**, **iPlus Video**, and cloud storage.
+- **[iPlus Keyboard (`PaniCraft`)](https://github.com/iplus009/iplus-keboard)** — Android Bangla phonetic keyboard app powered by `IplusAvroEngine`.
+- **iPlus Glass Kit** *(Private)* — Custom Kotlin/Gradle liquid-glass UI component library and CLI.
+- **Nazifa Homeo Hall** *(Private)* — Modern web platform built with Astro and Supabase.
+- **DewanFlow** — Browser extension and UI design prototype.
 
-- **[iPlus Keyboard](https://github.com/iplus009/iplus-keboard)** — my keyboard-app project.
+### Flagship Concept (Paused)
+
+- **Dishari (দিশারী)** — My most ambitious local-first desktop concept for an AI Agent Command Center, evidence-based skill ledger, and mobile-to-PC workflow sync *(currently paused due to tooling/resource constraints)*.
+
+---
+
+### Tech Stack & Tools
+
+- **Languages & Frameworks:** Kotlin, Jetpack Compose, Kotlin Multiplatform, Java, HTML/CSS, JavaScript, Astro
+- **Backend & Storage:** Supabase, Local-first / SQL
+- **Tools & Workflow:** Android Studio, Gradle, Git, AI Coding Agents
+
+---
 
 ### Find Me
 
